@@ -4,6 +4,7 @@ Interactive 3d web with panorama viewer
 Can interact with objects in the panorama.  
 Can't move camera position, only rotate with the cam.  
 Each move point is a panoramic photo.  
+WebGL is Works at ios/android.  
 WebGL Size: 13.7 mb.  
 
 **Demo**  
