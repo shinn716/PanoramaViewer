@@ -1,4 +1,4 @@
-# PoC_PanoramaViewer
+# PanoramaViewer
 Interactive 3d web with panorama viewer
 
 Can interact with objects in the panorama.  
